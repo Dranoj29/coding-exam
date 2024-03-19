@@ -14,8 +14,8 @@ public class OpenApiConfig {
         return new OpenAPI()
             .components(new Components())
             .info(new Info()
-                .title("Authentication Microservice API")
-                .description("Official Authentication API Documentation of Mapfre Insurance PH.")
+                .title("Coding Exam")
+                .description("Java Microservice Coding exam")
             );
     }
 }
